@@ -23,7 +23,7 @@ on:
     #    签到机制确保资源分配给真正需要的用户，感谢你的理解与配合
     #    GitHub Actions is a shared public resource provided by the platform
     #    Check-in ensures resources go to those who truly need it — thank you
-    #
+    #####
     # 🚀 长期使用请部署 Docker 版本 / For long-term use, deploy Docker version
     #
     # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
